@@ -1,3 +1,3 @@
 # Demo App
 
-Hello A demo app
+Hello A demo app.
